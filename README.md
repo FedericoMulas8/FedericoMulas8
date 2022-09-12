@@ -1,7 +1,5 @@
 ![Banner](https://github.com/FedericoMulas8/FedericoMulas8/blob/main/Nero%20Tecnologia%20Banner%20LinkedIn.png)
 
-## `Hello, world!`
-
 ### I'm Federico, nice to meet you :)
 
 - 🖥️ I'm studying to become a Full-Stack Developer
@@ -22,7 +20,7 @@
 -->
  
 
-### Languages i already know
+### Languages
 
 <p align="left">
   
